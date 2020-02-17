@@ -1,39 +1,26 @@
-# Project Name
+# IKEA Clone Proxy
 
-> Project description
+> This repo links all services required to display a working replica of IKEA's product pages. 
+>
+> The site has 100 real products for sale from IKEA's website and accurately mimics IKEA's format to display each product.
 
 ## Related Projects
 
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-  - https://github.com/teamName/repo
-
-## Table of Contents
-
-1. [Usage](#Usage)
-1. [Requirements](#requirements)
-1. [Development](#development)
+  - https://github.com/MyKea/Searchbar-Service
+  - https://github.com/MyKea/Image-View
+  - https://github.com/MyKea/Carousels-Service
+  - https://github.com/MyKea/MykeaReviewsAndDrawers
+  - https://github.com/MyKea/Bruce_Product-Description-Service
 
 ## Usage
 
 > Some usage instructions
 
-## Requirements
-
-An `nvmrc` file is included if using [nvm](https://github.com/creationix/nvm).
-
-- Node 6.13.0
-- etc
-
-## Development
-
 ### Installing Dependencies
 
 From within the root directory:
 
-```sh
-npm install -g webpack
+```
 npm install
 ```
 
