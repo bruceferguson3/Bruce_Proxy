@@ -21,11 +21,11 @@ Clicking through the image carousel for a product will show all images of the pr
 
 #### ![](assets/readMe/going-through-images.gif)
 
-Clicking `Add to Cart` will add whatever quantity is currently selected to the cart icon in the top right corner. If the user wishes to go straight to the reviews drawer, simply click the `reviews` next to the products rating.
+Clicking `Add to Cart` will add whatever quantity is currently selected to the cart icon in the top right corner. If the user wishes to go straight to the reviews drawer, simply click `Reviews` next to the products rating.
 
 #### ![](assets/readMe/going-through-product-description.gif)
 
-If a user wishes to leave a review for a product, simply open the reviews drawer and click `Write a review`. Once submited, the results will dynamicly re-render for the avg rating and number of reviews.
+If a user wishes to leave a review for a product, simply open the reviews drawer and click `Write a review`. Once submited, the results will dynamicly re-render the avg rating and number of reviews.
 
 #### ![](assets/readMe/writing-a-review.gif)
 
